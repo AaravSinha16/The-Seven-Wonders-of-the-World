@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    Font-size: 30px;
+    Background-color: Blue;
+}
+
+img {
+    width: 80%;
+}
+
+#firstp {
+    color: White;
+    Font-Size: 50px;
+    Font-variant: small-caps;
+}
